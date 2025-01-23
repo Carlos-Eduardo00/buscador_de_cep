@@ -10,4 +10,4 @@ O projeto se baseia na criação de uma interface para consulta de CEP, de forma
 
 ###Vite + React
 
-A criação do modelo inicial do projeto foi feito usando o framework Vite. 
+A criação do modelo inicial do projeto foi feito usando a versão "5.5.2" do framework Vite. 
