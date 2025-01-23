@@ -8,6 +8,6 @@ Segue o link da aula: https://www.youtube.com/watch?v=oy4cbqE1_qc&list=PL9odIgGi
 
 O projeto se baseia na criação de uma interface para consulta de CEP, de forma automatizada e dinâmica.
 
-##Vite + React
+Vite + React
 
 A criação do modelo inicial do projeto foi feito usando a versão "5.5.2" do framework Vite. 
